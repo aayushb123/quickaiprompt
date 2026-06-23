@@ -1,8 +1,12 @@
-# QuickAiPrompt 🚀  
+<img width="1366" height="6303" alt="screencapture-quickaiprompt-2026-06-23-13_20_00" src="https://github.com/user-attachments/assets/0de99f10-fb5a-47ea-afa6-7a52f06417f7" /># QuickAiPrompt 🚀  
 Free, high-quality AI prompt tools made for creators, students, and professionals.  
 Craft powerful prompts in seconds — **100% free, unlimited, no login required.**
 
 🌐 Website: **https://quickaiprompt.com/**
+<img width="1366" height="6303" alt="screencapture-quickaiprompt-2026-06-23-13_20_00" src="https://github.com/user-attachments/assets/7f5e2f9a-5646-45a5-be32-75ddfbfefb1c" />
+![Uploading quickaiprompt.com (2).png…]()
+![Uploading quickaiprompt.com (1).png…]()
+
 
 ## ✨ About QuickAiPrompt
 
